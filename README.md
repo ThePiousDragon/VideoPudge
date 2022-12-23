@@ -2,9 +2,9 @@
 
 ![256](https://user-images.githubusercontent.com/113775151/209412651-34e141a7-3dcc-435f-a1b6-6d11d6350531.png)
 
-A front-end for `ffmpeg` designed to practice some concepts in Swift. 
+A front-end for `ffmpeg` I made to practice some concepts in Swift. 
 
-Things to do: 
+Things left to do: 
 
 - [ ] Create an output field where the console logs can be displayed.
 - [ ] Create a Preference pane with an option to provide the path to the existing `ffmpeg` binary (at the moment, it's hard-coded as `/usr/local/bin/ffmpeg`
