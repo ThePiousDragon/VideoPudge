@@ -1,6 +1,6 @@
 # VideoPudge
 
-![512](https://user-images.githubusercontent.com/113775151/209410950-bcd79e05-9c68-459f-b74b-e349bf3c75c9.png)
+![256](https://user-images.githubusercontent.com/113775151/209412651-34e141a7-3dcc-435f-a1b6-6d11d6350531.png)
 
 A front-end for `ffmpeg` designed to practice some concepts in Swift. 
 
