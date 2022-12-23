@@ -6,6 +6,7 @@ A front-end for `ffmpeg` designed to practice some concepts in Swift.
 
 Things to do: 
 
+- [ ] Create an output field where the console logs can be displayed.
 - [ ] Create a Preference pane with an option to provide the path to the existing `ffmpeg` binary (at the moment, it's hard-coded as `/usr/local/bin/ffmpeg`
 - [ ] Add an option to output the ffmpeg command without running it
 - [ ] Add an input field for custom filters
